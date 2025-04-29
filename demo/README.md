@@ -67,6 +67,4 @@ If you encounter any issues:
 - **Transaction failing?** Check that you have enough ADA for the transaction plus fees
 - **Wrong network?** Some wallets may be connected to the testnet - switch to mainnet for real transactions
 
-## Support
-
-If you need help or have questions, please contact [support email or contact information].
+- **Need help?** Check the [documentation](https://meshjs.dev) for your wallet or ask in the Cardano community forums
